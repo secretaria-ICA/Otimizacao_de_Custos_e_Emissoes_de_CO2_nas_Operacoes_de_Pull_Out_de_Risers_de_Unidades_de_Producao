@@ -1,22 +1,19 @@
-Otimização de custos e emissões de CO2 nas operações de pull out de risers de unidades de produção offshore
+# Otimização de Custos e Emissões de CO2 nas Operações de Pull Out de Risers de Unidades de Produção Offshore
 
-Aluno: Milene França https://github.com/milfranca
+#### Aluna: [Milene França](https://github.com/milfranca).
+#### Orientadora: [Ana Carolina Alves Abreu](https://github.com/acarolina1612).
 
-Orientador(/a/es/as): Ana Carolina Abreu https://github.com/acarolina1612
+---
 
-                        _________________________________________
+Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
+- [Link para o código](2020.10.28%20TCC%20BI%20Master%20Milene.xlsx).
 
-Trabalho apresentado ao curso BI MASTER como pré-requisito para conclusão de curso e obtenção de crédito na disciplina “Projetos de Sistemas Inteligentes de Apoio à Decisão”.
+- [Link para a monografia](Monografia_BI_Master_MileneFranca.pdf).
 
-• https://github.com/milfranca/Projeto-Final-BI-Master-PUC-Rio
+---
 
-• https://github.com/milfranca/Projeto-Final-BI-Master-PUC-Rio/blob/main/Monografia_BI_Master_MileneFranca.pdf
-
-                        _________________________________________
-
-
-Resumo
+### Resumo
 
 Os descomissionamentos de ativos da indústria de Óleo e Gás (O&G) terão investimentos na ordem de R$ 26 bilhões nos próximos cinco anos e envolvem diversas atividades operacionais com custos e emissões atmosféricas de CO2 elevados. Dentre elas, temos a remoção de dutos submarinos que é estimada em 12% do custo total de descomissionamento, podendo ser complexa e representar um impacto ambiental significativo.
 
@@ -26,9 +23,10 @@ A “Tomada de Decisão” sobre qual combinação de alternativas seria mais ad
 
 Esse trabalho vem propor a utilização de algoritmos genéticos como ferramenta para otimização da combinação de alternativas de pull out de risers, onde serão avaliados os parâmetros custos e emissões de CO2.
 
-                        _________________________________________
-
+---
 
 Matrícula: 192.190.092
+
 Pontifícia Universidade Católica do Rio de Janeiro
-Curso de Pós Graduação Business Intelligence Master
+
+Curso de Pós Graduação *Business Intelligence Master*
